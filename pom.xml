@@ -58,6 +58,11 @@
                                     <pattern>net.kyori</pattern>
                                     <shadedPattern>dev.efnilite.vilib.mm</shadedPattern>
                                 </relocation>
+
+                                <relocation>
+                                    <pattern>dev.efnilite.neoschematic</pattern>
+                                    <shadedPattern>dev.efnilite.vilib.neoschematic</shadedPattern>
+                                </relocation>
                             </relocations>
                             <filters>
                                 <filter>
@@ -140,6 +145,13 @@
             <groupId>net.kyori</groupId>
             <artifactId>adventure-text-serializer-legacy</artifactId>
             <version>4.16.0</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.Efnilite</groupId>
+            <artifactId>neoschematic</artifactId>
+            <version>v1.0.1</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
