@@ -144,14 +144,14 @@
         <dependency>
             <groupId>net.kyori</groupId>
             <artifactId>adventure-text-serializer-legacy</artifactId>
-            <version>4.16.0</version>
+            <version>4.17.0</version>
             <scope>compile</scope>
         </dependency>
 
         <dependency>
             <groupId>com.github.Efnilite</groupId>
             <artifactId>neoschematic</artifactId>
-            <version>v1.0.1</version>
+            <version>5bf448901b</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
