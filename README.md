@@ -1,4 +1,4 @@
-# The spigot development library to speed up development, readability and stability!
+as l# The spigot development library to speed up development, readability and stability!
 ---
 This plugin was created to further boost the speed of plugin development, officially made by **Efnilite**!
 
